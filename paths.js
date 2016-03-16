@@ -8,6 +8,7 @@ module.exports = {
   components: path.join(__rootdirname, '/components'),
   configurations: path.join(__rootdirname, '/configurations'),
   data: path.join(__rootdirname, '/data'),
+  environments: path.join(__rootdirname, '/environments'), 
   libraries: path.join(__rootdirname, '/libraries'),
   models: path.join(__rootdirname, '/models'),
   paths: path.join(__rootdirname, '/paths'),
