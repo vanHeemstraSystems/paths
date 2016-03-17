@@ -10,6 +10,7 @@ module.exports = {
   data: path.join(__rootdirname, '/data'),
   environments: path.join(__rootdirname, '/environments'), 
   libraries: path.join(__rootdirname, '/libraries'),
+  listeners: path.join(__rootdirname, '/listeners'),
   models: path.join(__rootdirname, '/models'),
   paths: path.join(__rootdirname, '/paths'),
   prepublications: path.join(__rootdirname, '/prepublications'), 
