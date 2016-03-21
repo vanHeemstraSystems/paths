@@ -12,6 +12,7 @@ module.exports = {
   environments: path.join(__rootdirname, '/environments'),
   libraries: path.join(__rootdirname, '/libraries'),
   listeners: path.join(__rootdirname, '/listeners'),
+  mappings: path.join(__rootdirname, '/mappings'),
   models: path.join(__rootdirname, '/models'),
   paths: path.join(__rootdirname, '/paths'),
   prepublications: path.join(__rootdirname, '/prepublications'),
