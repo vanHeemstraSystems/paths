@@ -17,6 +17,7 @@ module.exports = {
   paths: path.join(__rootdirname, '/paths'),
   prepublications: path.join(__rootdirname, '/prepublications'),
   publications: path.join(__rootdirname, '/publications'),
+  resources: path.join(__rootdirname, '/resources'), 
   routes: path.join(__rootdirname, '/routes'),
   schemas: path.join(__rootdirname, '/schemas'),
   servers: path.join(__rootdirname, '/servers'),
