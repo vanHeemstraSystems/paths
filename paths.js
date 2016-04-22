@@ -1,3 +1,7 @@
+/*
+ * paths.js
+ * 
+ */
 var path = require('../libraries/path');
 var __rootdirname = path.join(__dirname, '/../');
 
