@@ -22,6 +22,7 @@ module.exports = {
   models: path.join(__rootdirname, '/models'),
   paths: path.join(__rootdirname, '/paths'),
   prepublications: path.join(__rootdirname, '/prepublications'),
+  proxies: path.join(__rootdirname, '/proxies'),
   publications: path.join(__rootdirname, '/publications'),
   queries: path.join(__rootdirname, '/queries'),
   resources: path.join(__rootdirname, '/resources'), 
