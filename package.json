@@ -1,0 +1,23 @@
+{
+  "name": "paths",
+  "version": "1.0.0",
+  "description": "The Paths Subtree",
+  "main": "paths.js",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanHeemstraSystems/paths.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanHeemstraSystems/paths/issues"
+  },
+  "homepage": "https://github.com/vanHeemstraSystems/paths#readme"
+}
